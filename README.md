@@ -1,6 +1,6 @@
 # Projeto de Automação de Coleta de Dados de Ações
 
-Este projeto tem como objetivo automatizar a coleta de dados de ações financeiras e armazená-los em um banco de dados SQL Server. O script realiza a coleta dos dados utilizando o Google Drive, configurações específicas de acesso ao banco de dados e opções personalizadas definidas em arquivos de configuração.
+Este projeto tem como objetivo automatizar a coleta de dados de ações financeiras e armazená-los em um banco de dados SQL Server. O script realiza a coleta dos dados utilizando o Selenium, configurações específicas de acesso ao banco de dados e opções personalizadas definidas em arquivos de configuração.
 
 ## Requisitos
 
