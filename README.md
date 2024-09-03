@@ -11,8 +11,8 @@ Antes de utilizar o script, você precisa garantir que o seu ambiente está conf
 1. **Verifique a versão do seu Google Chrome**.
 2. **Baixe a versão correspondente do Google Drive**:  
    Acesse o link abaixo para baixar a versão do Google Drive compatível com a versão do seu Chrome:  
-   [Baixar Google Drive](https://googlechromelabs.github.io/chrome-for-testing/)
-3. **Instale o Google Drive** na pasta do seu Windows.
+   [Baixar ChromeDrive](https://googlechromelabs.github.io/chrome-for-testing/)
+3. **Instale o ChromeDrive** na pasta do seu Windows.
 4. Utilize o comando ```python pip install -r requirements.txt``` para baixar os requirements.
 
 
