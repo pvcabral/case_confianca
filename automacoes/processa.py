@@ -30,6 +30,7 @@ class Processa:
         new_df['max_close'] = df.groupby(df['Date'].dt.strftime('%B %Y'))['Close'].transform('max')
         new_df['min_close'] = df.groupby(df['Date'].dt.strftime('%B %Y'))['Close'].transform('min')
         new_df['close'] = round(df.groupby(df['Date'].dt.strftime('%B %Y'))['Close'].transform('mean'),2)
+        new_df['max_high_month'] = df.groupby(df['Date'].dt.strftime('%B %Y'))['High'].transform('max')
         new_df['min_high_month'] = df.groupby(df['Date'].dt.strftime('%B %Y'))['High'].transform('min')
         new_df['max_low_month'] = df.groupby(df['Date'].dt.strftime('%B %Y'))['Low'].transform('max')
         new_df['min_low_month'] = df.groupby(df['Date'].dt.strftime('%B %Y'))['Low'].transform('min')

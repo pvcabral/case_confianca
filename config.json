@@ -1,4 +1,4 @@
 {
-    "HEADLESS": false,
+    "HEADLESS": true,
     "BANCOS" : ["BBAS3.SA", "ITUB3.SA", "SANB3.SA", "BBDC3.SA"]
 }
