@@ -59,9 +59,9 @@ Crie um arquivo chamado `settings.json` no mesmo diretório do script com a segu
 
 ```json
 {
-    "server": "DESKTOP-U73PRM0",
-    "database": "dados_acoes",
-    "username": "sa",
-    "password": "etlconfianca"
+    "server": "server_banco",
+    "database": "nome_do_banco",
+    "username": "user_banco",
+    "password": "password_banco"
 }
 ```
