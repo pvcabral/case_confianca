@@ -4,7 +4,7 @@ Este projeto tem como objetivo automatizar a coleta de dados de ações financei
 
 ## Requisitos
 
-Antes de utilizar o script, você precisa garantir que o seu ambiente está configurado corretamente. Siga os passos abaixo:
+Antes de utilizar o script, rodando o file "main.py" você precisa garantir que o seu ambiente está configurado corretamente. Siga os passos abaixo:
 
 ### 1. Instalar o Google Chrome e Google Drive
 
